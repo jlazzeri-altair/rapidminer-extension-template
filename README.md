@@ -4,9 +4,9 @@ RapidMiner Extension Template
 A template project for creating a RapidMiner Studio extension. 
 
 ### Prerequisite
-* Requires Gradle 6.8.1+ (use the Gradle wrapper shipped with this template or get it [here](http://gradle.org/installation))
+* Requires Gradle 8.2.1+ (use the Gradle wrapper shipped with this template or get it [here](http://gradle.org/installation))
 
-* Requires Java 11
+* Requires Java 11+
 
 ### Getting started
 1. Clone the extension template
